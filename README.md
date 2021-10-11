@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Cloud ☁️ and System 💻
 - 🧠 I love Programming ⌨️ Research 🔎 & Science 🧑‍ 🔬 💥
 - 🌱 I’m currently learning Telecommunication in Posts Telecommunications Institute of Technology
-- 🚀 Become a Software Engineer 👨‍💻
+- 🚀 Become a Scientist 👨‍🔬
 
 ### ✈️ Hit me at:
 - 📫 Email: vuduclong10a1cma@gmail.com
