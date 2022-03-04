@@ -11,7 +11,7 @@
 - 🚀 Become a Scientist 👨‍🔬
 
 ### ✈️ Hit me at:
-- 📫 Email: vuduclong10a1cma@gmail.com
+- 📫 Email: longvdptithn@gmail.com
 - 📞 Phone: 0975707406 
 
 [![4ward GitHub stats](https://github-readme-stats.vercel.app/api?username=4ward110)](https://github.com/anuraghazra/github-readme-stats)
