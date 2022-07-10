@@ -5,7 +5,7 @@
 
 ### 📃 About me:
 - 
-- 🔭 I has worked on System 💻 and Cloud Computing and System for about 1 years but now i'm researching about ML & DL.
+- 🔭 I had worked on System 💻 and Cloud Computing for about 1 years but now i'm researching about ML & DL.
 - 🧠 I love Programming ⌨️ Research 🔎 & Science 🧑‍ 🔬 💥
 - 🌱 I’m currently learning Telecommunication in Posts Telecommunications Institute of Technology
 - 🚀 Become a Scientist 👨‍🔬
