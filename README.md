@@ -7,7 +7,7 @@
 - 
 - 🔭 I had worked on System 💻 and Cloud Computing for about 1 years but now i'm researching about ML & DL.
 - 🧠 I love Programming ⌨️ Research 🔎 & Science 🧑‍ 🔬 💥
-- 🌱 I’m currently learning Telecommunication in Posts Telecommunications Institute of Technology
+- 🌱 I’m currently studying Telecommunication at Posts Telecommunications Institute of Technology
 - 🚀 Become a Scientist 👨‍🔬
 
 ### ✈️ Hit me at:
